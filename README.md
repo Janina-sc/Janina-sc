@@ -1,4 +1,4 @@
-[Uploading marek-piwnicki-27Yjob4jFEg-unsplash.jpg…]()
+
 
  👋 Hi, I am Janina Roberto!
 Languages and Techs Skills
