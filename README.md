@@ -9,5 +9,6 @@
  📫 How to reach me: 
  cel: 54 342 5157738
  email: janinasoledadroberto@gmail.com
+ linkedin: https://www.linkedin.com/in/janina-roberto-full-stackdeveloper/
 
 
