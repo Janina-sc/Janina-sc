@@ -6,7 +6,7 @@ align="center"![image](https://user-images.githubusercontent.com/84505513/151527
 
 - 🔭 I’m currently working on **a group project to create an ecommerce platform**
 
-- 🌱 I’m currently learning **typescript and reactnative**
+- 🌱 I’m currently learning **typescript and reactnative**, and creating PWAs.
 
 - 📫 How to reach me **janinasoledadroberto@gmail.com**
 
