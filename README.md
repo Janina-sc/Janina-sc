@@ -6,14 +6,14 @@
 
 - 🔭 I’m currently working on **a group project to create an ecommerce platform**
 
-- 🌱 I’m currently learning **typescript and reactnative**, and creating PWAs.
+- 🌱 I’m currently learning **typescript and react-native**, and creating PWAs.
 
 - 📫 How to reach me **janinasoledadroberto@gmail.com**
 
 - ⚡ Fun fact **Besize my tech skills, I can provide a sense of balance and good energy to any project. I guarantee accountability and a solid work ethic.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/janina-roberto-full-stackdeveloper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/janina-roberto-full-stackdeveloper/" height="30" width="40" /></a>
 <a href="https://instagram.com/janinaroberto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janinaroberto" height="30" width="40" /></a>
 </p>
