@@ -1,6 +1,12 @@
 
 
-<div align=”center”>("https://user-images.githubusercontent.com/84505513/151527009-9b44ada5-51f1-454f-988d-166eafd2795a.png") </div> 
+<p align="center">
+
+	<a href="https://jlferrete.com"><img src="https://jlferrete.com/wp- content/uploads/2020/07/jlferrete-optimize.gif" alt="Jose Luis Ferrete has a lot of ideas"/></a>
+
+
+</p>
+("https://user-images.githubusercontent.com/84505513/151527009-9b44ada5-51f1-454f-988d-166eafd2795a.png") 
 
 
 <h1 align="center">Hi 👋, I'm Janina Roberto</h1>
