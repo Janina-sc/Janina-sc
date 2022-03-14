@@ -1,12 +1,6 @@
 
 
-<p align="center">
 
-	<img src="
-https://user-images.githubusercontent.com/84505513/151527009-9b44ada5-51f1-454f-988d-166eafd2795a.png"/>
-
-
-</p> 
 
 
 <h1 align="center">Hi 👋, I'm Janina Roberto</h1>
